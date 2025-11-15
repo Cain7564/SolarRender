@@ -1,0 +1,11 @@
+C:\Users\max75\Downloads\LabPlanetario-main (1)\LabPlanetario-main\solar_renderer\target\debug\deps\obj-3a746b44b825b874.d: C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\lib.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\error.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\mod.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\lexer.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\material.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\object.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\util.rs
+
+C:\Users\max75\Downloads\LabPlanetario-main (1)\LabPlanetario-main\solar_renderer\target\debug\deps\libobj-3a746b44b825b874.rmeta: C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\lib.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\error.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\mod.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\lexer.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\material.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\object.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\util.rs
+
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\lib.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\error.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\mod.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\lexer.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\material.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\object.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\obj-rs-0.7.4\src\raw\util.rs:

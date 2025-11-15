@@ -1,0 +1,10 @@
+C:\Users\max75\OneDrive\Escritorio\visual\Solar_render\solar_renderer\target\release\deps\avif_serialize-d300d4eeb6830d0f.d: C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\lib.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\boxes.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\constants.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\writer.rs
+
+C:\Users\max75\OneDrive\Escritorio\visual\Solar_render\solar_renderer\target\release\deps\libavif_serialize-d300d4eeb6830d0f.rlib: C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\lib.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\boxes.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\constants.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\writer.rs
+
+C:\Users\max75\OneDrive\Escritorio\visual\Solar_render\solar_renderer\target\release\deps\libavif_serialize-d300d4eeb6830d0f.rmeta: C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\lib.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\boxes.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\constants.rs C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\writer.rs
+
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\lib.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\boxes.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\constants.rs:
+C:\Users\max75\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\avif-serialize-0.8.6\src\writer.rs:
