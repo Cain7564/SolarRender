@@ -46,3 +46,5 @@ La cámara tiene colisión con los planetas, por lo que no puedes atravesarlos. 
 - Puedes modificar los shaders en `textura.rs` para cambiar el aspecto de los planetas.
 - Ajusta el número de estrellas, colores y parámetros para experimentar con el diseño.
 
+## Enlace del video (pesaba mucho para colocarlo aqui)
+https://drive.google.com/file/d/18nopVlnuzf4JWy_qiml8toIBGh9n8Ysp/view?usp=sharing
