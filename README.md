@@ -40,6 +40,8 @@ La cámara tiene colisión con los planetas, por lo que no puedes atravesarlos. 
    cargo run
    ```
 
+   
+
 ## Personalización
 - Puedes modificar los shaders en `textura.rs` para cambiar el aspecto de los planetas.
 - Ajusta el número de estrellas, colores y parámetros para experimentar con el diseño.
